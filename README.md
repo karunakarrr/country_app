@@ -7,6 +7,7 @@ Build a web application that retrieves country data from the REST Countries API,
 git clone 
 
 2.Install dependencies:
+cd country-app-new
 npm install
 
 3.Run the application (frontend & backend): 
