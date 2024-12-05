@@ -3,7 +3,7 @@ Build a web application that retrieves country data from the REST Countries API,
 
 #Steps to Set Up the GlobeInfo Project
 
-1.Clone the repository:
+1.Clone the repository:https://github.com/karunakarrr/country_app.git
 git clone 
 
 2.Install dependencies:
